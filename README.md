@@ -1,2 +1,2 @@
 # DeepLearningPortfolio
-All the projects associated with Deep Learning will be posted here
+Work associated with Deep Learning Project is associated here.
